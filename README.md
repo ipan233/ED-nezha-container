@@ -6,5 +6,6 @@
 
 vless客户端设置参考下图
 
-![image](https://github.com/ipan233/Render-ED/assets/125166151/2b8219a2-80a6-471d-a000-997638adc9e5)
+![image](https://github.com/ipan233/ED-nezha-container/assets/125166151/83a3ccf4-708d-4427-b721-17594acbd004)
+
 
